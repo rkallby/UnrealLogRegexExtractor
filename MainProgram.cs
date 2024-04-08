@@ -404,7 +404,7 @@ namespace LoadLogging
 
             }
 
-            //If we wanted to get extra fancy, add NSLookup Query and Query to SCCM to get PIC of User Accessing (Create a unique users list)====//
+            //If we wanted to get extra fancy, add NSLookup Query and Query to SCCM to get the User Accessing (Create a unique users list)====//
             //Loop through the master object
             //Read the value for IP Address
             //Do an NSLOOKUP to get Device Name
